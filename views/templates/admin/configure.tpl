@@ -38,11 +38,11 @@
 
 <div class="panel">
 	<h3><i class="icon icon-tags"></i> {l s='Documentation' mod='pointsfidelite'}</h3>
-	<p>
+	{* <p>
 		&raquo; {l s='You can get a PDF documentation to configure this module' mod='pointsfidelite'} :
 		<ul>
 			<li><a href="#" target="_blank">{l s='English' mod='pointsfidelite'}</a></li>
 			<li><a href="#" target="_blank">{l s='French' mod='pointsfidelite'}</a></li>
 		</ul>
-	</p>
+	</p> *}
 </div>
